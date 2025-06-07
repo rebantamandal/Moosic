@@ -49,7 +49,7 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Moosic.git
+   git clone https://github.com/rebantamandal/Moosic.git
    ```
 2. Open the project in Android Studio.
 3. Allow Gradle to sync and build dependencies.
